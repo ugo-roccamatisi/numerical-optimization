@@ -1,6 +1,6 @@
 # TP d'optimisation — Ugo Roccamatisi
 
-Quatre notebooks corrigés et exécutés, sans date :
+Quatre notebooks corrigés et exécutés :
 
 1. `TP1_Méthodes_de_Gradient_Corrigé.ipynb` : gradient d'une fonction quadratique, pas optimal et recherche linéaire d'Armijo.
 2. `TP2_Newton-correction.ipynb` : méthode de Newton et approximation inverse BFGS.
